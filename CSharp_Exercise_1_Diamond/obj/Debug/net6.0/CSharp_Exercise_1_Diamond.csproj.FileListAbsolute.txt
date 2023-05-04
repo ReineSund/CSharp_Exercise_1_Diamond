@@ -1,0 +1,15 @@
+C:\Users\reine\source\repos\CSharp_Exercise_1_Diamond\CSharp_Exercise_1_Diamond\obj\Debug\net6.0\CSharp_Exercise_1_Diamond.csproj.AssemblyReference.cache
+C:\Users\reine\source\repos\CSharp_Exercise_1_Diamond\CSharp_Exercise_1_Diamond\obj\Debug\net6.0\CSharp_Exercise_1_Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reine\source\repos\CSharp_Exercise_1_Diamond\CSharp_Exercise_1_Diamond\obj\Debug\net6.0\CSharp_Exercise_1_Diamond.AssemblyInfoInputs.cache
+C:\Users\reine\source\repos\CSharp_Exercise_1_Diamond\CSharp_Exercise_1_Diamond\obj\Debug\net6.0\CSharp_Exercise_1_Diamond.AssemblyInfo.cs
+C:\Users\reine\source\repos\CSharp_Exercise_1_Diamond\CSharp_Exercise_1_Diamond\obj\Debug\net6.0\CSharp_Exercise_1_Diamond.csproj.CoreCompileInputs.cache
+C:\Users\reine\source\repos\CSharp_Exercise_1_Diamond\CSharp_Exercise_1_Diamond\bin\Debug\net6.0\CSharp_Exercise_1_Diamond.exe
+C:\Users\reine\source\repos\CSharp_Exercise_1_Diamond\CSharp_Exercise_1_Diamond\bin\Debug\net6.0\CSharp_Exercise_1_Diamond.deps.json
+C:\Users\reine\source\repos\CSharp_Exercise_1_Diamond\CSharp_Exercise_1_Diamond\bin\Debug\net6.0\CSharp_Exercise_1_Diamond.runtimeconfig.json
+C:\Users\reine\source\repos\CSharp_Exercise_1_Diamond\CSharp_Exercise_1_Diamond\bin\Debug\net6.0\CSharp_Exercise_1_Diamond.dll
+C:\Users\reine\source\repos\CSharp_Exercise_1_Diamond\CSharp_Exercise_1_Diamond\bin\Debug\net6.0\CSharp_Exercise_1_Diamond.pdb
+C:\Users\reine\source\repos\CSharp_Exercise_1_Diamond\CSharp_Exercise_1_Diamond\obj\Debug\net6.0\CSharp_Exercise_1_Diamond.dll
+C:\Users\reine\source\repos\CSharp_Exercise_1_Diamond\CSharp_Exercise_1_Diamond\obj\Debug\net6.0\refint\CSharp_Exercise_1_Diamond.dll
+C:\Users\reine\source\repos\CSharp_Exercise_1_Diamond\CSharp_Exercise_1_Diamond\obj\Debug\net6.0\CSharp_Exercise_1_Diamond.pdb
+C:\Users\reine\source\repos\CSharp_Exercise_1_Diamond\CSharp_Exercise_1_Diamond\obj\Debug\net6.0\CSharp_Exercise_1_Diamond.genruntimeconfig.cache
+C:\Users\reine\source\repos\CSharp_Exercise_1_Diamond\CSharp_Exercise_1_Diamond\obj\Debug\net6.0\ref\CSharp_Exercise_1_Diamond.dll
